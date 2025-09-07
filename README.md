@@ -5,8 +5,7 @@ I'm Rookie Dev
 
 “People don’t care about what you say, they care about what you build.” – Mark Zuckerberg
 
-* 🌱 Currently studying Computer Science 
-* 🎓 University: Muban Chombueng Rajabhat 
+* 🎓 Computer Science student @ Muban Chombueng Rajabhat University 
 * 💻 Interested in software development, web technologies, and problem solving 
 
 ### Skills
