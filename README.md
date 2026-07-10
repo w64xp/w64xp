@@ -1,5 +1,5 @@
 # 🧠 w64xp
 
-> Code. Think. Repeat. Music.
+> Code. Think. Repeat
 
 💻 Computer Science  
